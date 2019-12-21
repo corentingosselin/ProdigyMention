@@ -1,0 +1,7 @@
+name: ProdigyMentionSpigot
+version: 1.2.8
+author: cocoraid
+main: fr.cocoraid.prodigymention.spigot.ProdigyMentionSpigot
+commands:
+    prodigymention:
+        aliases: [pm]

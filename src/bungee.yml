@@ -1,0 +1,4 @@
+name: ProdigyMention
+version: 1.12.8
+main: fr.cocoraid.prodigymention.bungee.ProdigyMentionBungee
+author: cocoraid
